@@ -48,6 +48,14 @@ PORT    STATE SERVICE
 
 Nmap done: 1 IP address (1 host up) scanned in 4.81 seconds
 ```
+위 처럼, 
+<pre>
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+</pre>
+라고 포트가 어떤게 열려 있는지 확인히 가능하다. </br>
+그리고 그 아래에는 스캐닝 시간을 알려준다. 코드에 대한 설명은 다음에 적을게요...
 
 ## Thank you
 **Contect me**
